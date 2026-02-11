@@ -11,15 +11,17 @@ The model is trained using a small hiring dataset and used to predict salaries f
 ---
 
 ## Project Structure
+
+```
 hiring-salary-prediction/
 │
 ├── data/
-│ └── hiring.csv
+│   └── hiring.csv
 │
 ├── hiring_salary_prediction.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
