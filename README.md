@@ -96,6 +96,7 @@ The predicted salaries are displayed in the notebook output.
 
 ## Author
 
+Mateboho Dlamini
 Women Techsters Fellowship – Machine Learning Assignment  
 Class of 2026
 
